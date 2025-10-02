@@ -1,6 +1,6 @@
 # Network Traffic Analysis Using Wireshark <br>
 
-![image alt](https://media.licdn.com/dms/image/v2/D4E2DAQGtKHqZuLw1Qw/profile-treasury-image-shrink_800_800/B4EZWXgch5GgAY-/0/1742003622159?e=1760036400&v=beta&t=_kfzs9vzd-hxRdpkvVarSCdzjcyE1KjTmQ8f_ypbQOA)
+![image alt](https://www.wireshark.org/docs/wsug_html_chunked/images/ws-main.png)
 
 ## Project Overview
 
